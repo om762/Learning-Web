@@ -9,3 +9,13 @@ p {
   text-align: center;
   color: #161515;
 }
+
+a {
+  text-decoration: none;
+  color: red;
+}
+a:hover{
+  text-decoration: underline;
+  font-size: large;
+  color: green;
+}
