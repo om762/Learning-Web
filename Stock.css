@@ -1,4 +1,12 @@
+html {
+  color: aliceblue;
+}
+body {
+  background: rgb(245, 245, 247);
+}
+
 h1 {
+  font-size: xx-large;
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
   text-align: center;
   color: #21b18d;
@@ -18,4 +26,11 @@ a:hover{
   text-decoration: underline;
   font-size: large;
   color: green;
+}
+
+#main-moto {
+  font-family: 'Chelsea Market';
+  color: rgb(255, 217, 0);
+  font-weight: bold;
+  font-size: 52px;
 }
