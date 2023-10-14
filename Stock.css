@@ -2,19 +2,20 @@ html {
   color: aliceblue;
 }
 body {
-  background: rgb(245, 245, 247);
+  background: rgb(170, 217, 152);
+  text-align: center;
+  margin: 50px;
 }
 
 h1 {
   font-size: xx-large;
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
-  text-align: center;
-  color: #21b18d;
+  color: #f60052;
+  text-decoration:  underline;
 }
 
 p {
   font-family: cursive;
-  text-align: center;
   color: #161515;
 }
 
@@ -30,7 +31,12 @@ a:hover{
 
 #main-moto {
   font-family: 'Chelsea Market';
-  color: rgb(255, 217, 0);
+  color: rgb(0, 0, 0);
   font-weight: bold;
   font-size: 52px;
+}
+img {
+  width: 1080px;
+  height: 300px;
+  border-radius: 15px;
 }
