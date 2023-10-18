@@ -1,4 +1,4 @@
-# MyWebDevJourney
+# My Web Dev Journey
 
 ![WebDev](https://img.shields.io/badge/Web%20Development-Learning%20Journey-brightgreen)
 
