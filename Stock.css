@@ -1,33 +1,13 @@
-html {
-  color: aliceblue;
-}
 body {
-  background: rgb(170, 217, 152);
-  text-align: center;
   margin: 50px;
 }
 
-h1 {
-  font-size: xx-large;
-  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
-  color: #f60052;
-  text-decoration:  underline;
-}
 
-p {
+h5 {
   font-family: cursive;
   color: #161515;
 }
 
-a {
-  text-decoration: none;
-  color: red;
-}
-a:hover{
-  text-decoration: underline;
-  font-size: large;
-  color: green;
-}
 
 #main-moto {
   font-family: 'Chelsea Market';
