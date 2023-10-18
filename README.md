@@ -24,13 +24,8 @@ I'm using the [GitHub Issue Tracker](https://guides.github.com/features/issues/)
 
 I welcome collaboration! If you'd like to work on a project together, provide feedback, or just chat about web development, please don't hesitate to reach out. Let's learn and grow together.
 
-## License
-
-This repository is open for exploration and collaboration. However, please respect the licensing terms when using or sharing the content. You can find the details in the [LICENSE](LICENSE) file.
-
 ## Get in Touch
 
-- Connect with me on [LinkedIn](https://www.linkedin.com/in/yourprofile).
-- Check out my [personal website](https://www.yourwebsite.com) to see more of my projects and work.
+- Connect with me on [LinkedIn](www.linkedin.com/in/om762).
 
 Happy coding! 🚀
