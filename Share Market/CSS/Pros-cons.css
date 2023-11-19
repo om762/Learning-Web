@@ -1,6 +1,41 @@
+body {
+  margin: 60px;
+}
 .pros,
 .cons {
   margin-bottom: 20px;
-  color: red;
-  text-align: justify;
+  color: white;
+  text-align: left;
 }
+
+
+#main-menu {
+  text-align: left;
+}
+
+
+#home-link {
+  align-self: left;
+  color: white;
+  font-size: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+  border-radius: 15px;
+  border: 50px;
+  border-color: rgb(84, 134, 178);
+  background-color: rgb(0, 33, 80);
+  padding: 10px;
+}
+
+#home-link:hover {
+ text-decoration: none;
+  background-color: rgb(45, 98, 173);
+}
+
+li {
+  list-style: none;
+  margin-bottom: 20px;
+  color: white;
+  background-color: rgb(71, 71, 71);
+  width: fit-content;
+}
+

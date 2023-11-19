@@ -1,26 +1,29 @@
 body {
-  background: rgb(170, 217, 152);
+  background: #000000;
   text-align: center;
+  margin-left: 100px;
+  margin-right: 100px;
+  
 }
 
 h1 {
   font-size: xx-large;
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
-  color: #000000;
+  color: white;
   text-decoration: underline;
 }
 
+
 p {
   font-family: cursive;
-  color: #161515;
+  color: white
 }
 
 a {
   text-decoration: none;
-  color: red;
+  color: #0073c5;
 }
 a:hover {
   text-decoration: underline;
-  font-size: large;
   color: green;
 }

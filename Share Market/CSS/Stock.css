@@ -1,6 +1,6 @@
-body {
+/* body {
   margin: 50px;
-}
+} */
 
 
 h5 {
@@ -8,15 +8,33 @@ h5 {
   color: #161515;
 }
 
+#main-head {
+  color: black;
+  font-style: italic;
+  font-family: 'Franklin Gothic Medium','Courier New', Courier, monospace, 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#head-collector {
+  background-color: #2aec79;
+  font-family: 'Chelsea Market', Georgia, 'Times New Roman', Times, serif;
+  border-radius: 17px;
+}
+
+#define {
+  color: white;
+}
 
 #main-moto {
-  font-family: 'Chelsea Market';
+  font-family: 'Chelsea Market' Georgia, 'Times New Roman', Times, serif;
   color: rgb(0, 0, 0);
   font-weight: bold;
-  font-size: 52px;
+  font-size: 40px;
+}
+div {
+  margin: 250;
 }
 img {
   width: 1080px;
   height: 300px;
-  border-radius: 15px;
+  /* border-radius: 15px; */
 }

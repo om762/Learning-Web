@@ -2,8 +2,8 @@ body {
 
     margin-left: 60px;
     margin-right: 60px;
-    background-color: #25274D;
-    color: #ffffff;
+    background-color: rgb(39, 39, 32);
+    color: rgb(233, 248, 255);
     text-align: left;
 
 }
@@ -12,14 +12,14 @@ body {
 div {
     text-align: center;
     background: black;
-    border-radius: 30px;
+    border-radius: 5px;
 }
 
-#About {
+/* #About {
     text-align: center;
-    background: red;
+    background: rgb(8, 17, 98);
     border-radius: 20px;
-}
+} */
 
 p {
     color: #ffffff;    
