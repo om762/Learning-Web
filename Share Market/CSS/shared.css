@@ -4,6 +4,7 @@ body {
   margin-left: 100px;
   margin-right: 100px;
   margin-top: 40px;
+  margin-bottom: 100px;
   
 }
 
@@ -22,9 +23,9 @@ p {
 
 a {
   text-decoration: none;
-  color: #0073c5;
+  color: rgb(47, 129, 247);
 }
 a:hover {
   text-decoration: underline;
-  color: green;
+  color: rgb(90, 159, 255);
 }
