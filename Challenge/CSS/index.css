@@ -1,0 +1,10 @@
+img {
+    height: 350px;
+    width: auto;
+    object-fit: scale-down;
+    border-radius: 10px;
+}
+
+ol {
+    list-style: none;
+}

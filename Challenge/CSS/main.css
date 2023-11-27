@@ -1,0 +1,27 @@
+body {
+    text-align: center;
+    margin: 20px 50px 20px 50px;
+    background-color: black;
+    color: white;
+}
+
+.time {
+    font-family: 'Segoe UI Semibold';
+    font-weight: bold;
+}
+
+p {
+    font-family: 'Cascadia Code SemiBold';
+}
+
+a {
+    color: rgb(0, 199, 199);
+    font-family: 'Fira Code', sans-serif;
+    text-decoration: none;
+}
+
+a:hover {
+    color: rgb(0, 255, 255);
+    font-family: 'Fira Code', sans-serif;
+    font-weight: 500;
+}

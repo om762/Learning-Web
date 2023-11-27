@@ -1,16 +1,20 @@
 .pros,
 .cons {
-  font-family: 'Segoe UI Black';
+  font-family: "Segoe UI Black";
   color: rgb(0, 0, 0);
   text-align: left;
-  padding-left: 60px;
+  /* padding-top: 15px;
   padding-right: 60px;
-  padding-top: 15px;
   padding-bottom: 15px;
-  margin-left: 110px;
+  padding-left: 60px; */
+
+  padding: 15px 60px 15px 60px;
+  /* margin-left: 110px;
   margin-right: 110px;
   margin-top: 70px;
-  margin-bottom: 70px;
+  margin-bottom: 70px; */
+
+  margin: 70px 110px 70px 110px;
   border-radius: 20px;
 }
 
@@ -28,9 +32,6 @@
   border-radius: 20px;
 }
 
-
-
-
 .pros {
   background-color: rgb(0, 151, 89);
 }
@@ -38,11 +39,9 @@
   background-color: rgb(201, 47, 16);
 }
 
-
 #main-menu {
   text-align: left;
 }
-
 
 #home-link {
   align-self: left;
@@ -57,8 +56,8 @@
 }
 
 #home-link:hover {
- text-decoration: none;
- background-color: rgb(45, 98, 173);
+  text-decoration: none;
+  background-color: rgb(45, 98, 173);
 }
 
 li {
@@ -69,5 +68,3 @@ li {
   color: rgb(255, 255, 255);
   width: fit-content;
 }
-
-
